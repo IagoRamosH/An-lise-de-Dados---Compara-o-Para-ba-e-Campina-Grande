@@ -1,4 +1,4 @@
-# An-lise-de-Dados---Compara-o-Para-ba-e-Campina-Grande
+# Análise-de-Dados---Comparano-Paraíba-e-Campina-Grande
 
 Descrição dos Arquivos - Análise Comparativa de Indicadores Sociais e Econômicos
 Este repositório contém os dados e análises referentes ao projeto de análise comparativa de indicadores sociais, econômicos e de infraestrutura entre o município de Campina Grande e o estado da Paraíba, com foco nos dados do ano de 2022.
